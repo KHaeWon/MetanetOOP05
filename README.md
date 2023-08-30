@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=깃허브%20특강&fontSize=90&animation=scaleIn)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=KHaeWon)](https://github.com/KHaeWon)
 
