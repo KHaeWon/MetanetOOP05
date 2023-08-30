@@ -1,4 +1,4 @@
-## 안녕하세요, 김혜원의 깃허브입니다 👋
+안녕하세요, 김혜원의 깃허브입니다 👋
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=KHaeWon)](https://github.com/KHaeWon)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHaeWon)](https://github.com/KHaeWon/github-readme-stats)
